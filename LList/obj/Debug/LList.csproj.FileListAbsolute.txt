@@ -1,0 +1,6 @@
+C:\Users\Konstantinopol\RiderProjects\LList\LList\bin\Debug\LList.exe
+C:\Users\Konstantinopol\RiderProjects\LList\LList\bin\Debug\LList.pdb
+C:\Users\Konstantinopol\RiderProjects\LList\LList\obj\Debug\LList.csproj.AssemblyReference.cache
+C:\Users\Konstantinopol\RiderProjects\LList\LList\obj\Debug\LList.csproj.CoreCompileInputs.cache
+C:\Users\Konstantinopol\RiderProjects\LList\LList\obj\Debug\LList.exe
+C:\Users\Konstantinopol\RiderProjects\LList\LList\obj\Debug\LList.pdb
